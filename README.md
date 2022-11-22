@@ -6,6 +6,7 @@ This code is highly based on [kuangliu/pytorch-cifar](https://github.com/kuangli
 ## Prerequisites
 - Python 3.6+
 - PyTorch 1.0+
+- torchsummary
 
 ## Training
 Train the model with the following comment:
